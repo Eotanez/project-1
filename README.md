@@ -1,7 +1,11 @@
 # COVID deaths and Global Stock Market Analysis
+
 Data Analytics Bootcamp Spring 2021
+
 Group Project 1: Team #4
+
 Enrique Otanez, KJ Johnson, Nicole Stefanek, Stacey Dougherty, Stephen Peters
+
 May 8, 2021
 
 The question we addressed:
