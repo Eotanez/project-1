@@ -1,4 +1,4 @@
-# project-1
+# COVID deaths and Global Stock Market Analysis
 
 
 Data found from:
